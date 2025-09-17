@@ -6,9 +6,9 @@ rouge_score
 py7zr
 pandas
 nltk
+matplotlib
 tqdm
 PyYAML
-matplotlib
 torch
 notebook
 boto3
